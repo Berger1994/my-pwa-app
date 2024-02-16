@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "mona",
+      "package_name": "app.vercel.my_pwa_app_sigma.twa",
+      "sha256_cert_fingerprints": [
+        "87:60:BB:7E:D8:E9:84:68:6A:66:EB:42:B3:88:6A:89:02:49:AA:EF:79:26:93:2B:38:F3:91:DF:4E:C1:86:5A"
+      ]
+    }
+  }
+]
